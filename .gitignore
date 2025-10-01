@@ -1,0 +1,17 @@
+/local.properties
+/local.properties.bak
+*.iml
+.gradle
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+/build
+/Scratches and Consoles
+/out
+/captures
+.DS_Store
+Thumbs.db
+/app/google-services.json
